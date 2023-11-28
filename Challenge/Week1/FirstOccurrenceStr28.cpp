@@ -2,15 +2,15 @@
  * @file FirstOccurrenceStr28.cpp
  * @author Aghamarsh Varanasi
  * @brief 
+ * This is a solution for the following problem in Leet code as part of Top Interview 150 - Study Plan 
+ * 28. Find the Index of the First Occurrence in a String
+ * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150
+ * 
  * @version 1.0
  * @date 2023-11-28
  * 
  * @copyright Copyright (c) 2023
  * All rights reserved
- * 
- * This is a solution for the following problem in Leet code as part of Top Interview 150 - Study Plan 
- * 28. Find the Index of the First Occurrence in a String
- * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150
  */
 
 #include <bits/stdc++.h>
