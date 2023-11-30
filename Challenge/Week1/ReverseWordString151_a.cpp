@@ -1,6 +1,6 @@
 /**
  * @file ReverseWordString151_a.cpp
- * @author your name (you@domain.com)
+ * @author Aghamarsh Varanasi
  * @brief 
  * String stream based solution for the following problem in Leet code as part of Top Interview 150 - Study Plan
  * 151. Reverse Words in a String
